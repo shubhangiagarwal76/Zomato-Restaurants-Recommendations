@@ -7,7 +7,7 @@ Zomato API Analysis is one of the most useful analysis for foodies who want to t
 ### For more information on Zomato API and Zomato API key
 •	Visit : [https://developers.zomato.com/api#headline1](https://developers.zomato.com/api#headline1)<br>
 •	Data Collection: [https://developers.zomato.com/documentation]( https://developers.zomato.com/documentation)
-## Data
+### Data
 
 ### Fetching the data: 
 •	Data has been collected from the Zomato API in the form of .json files(raw data) 
